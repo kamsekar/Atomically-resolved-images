@@ -17,10 +17,10 @@ Determining atomic column positions:
 
 Segmenting an image into grains:
 <p align="left">
-  <img src="examples/example_segmentation.png" height="150" title="Determining atomic column positions">
+  <img src="examples/example_segmentation.png" width="100%" title="Determining atomic column positions">
 <p align="left">
 
 Aligning identical location images:
 <p align="left">
-  <img src="examples/example_registration.png" height="150" title="Determining atomic column positions">
+  <img src="examples/example_registration.png" width="100%" title="Determining atomic column positions">
 <p align="left">
