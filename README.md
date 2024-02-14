@@ -9,3 +9,18 @@ If you use the code, please cite the following papers:
 
 * Resolving the nanoparticles’ structure-property relationships at the atomic level: a study of Pt-based electrocatalysts. *iScience* (2021). https://doi.org/10.1016/j.isci.2021.102102
 * Observing, tracking and analysing electrochemically induced atomic-scale structural changes of an individual Pt-Co nanoparticle as a fuel cell electrocatalyst by combining modified floating electrode and identical location electron microscopy. *Electrochimica Acta* (2021). https://doi.org/10.1016/j.electacta.2021.138513 
+
+Determining atomic column positions:
+<p align="left">
+  <img src="examples/example_positions.png" height="150" title="Determining atomic column positions">
+<p align="left">
+
+Segmenting an image into grains:
+<p align="left">
+  <img src="examples/example_segmentation.png" height="150" title="Determining atomic column positions">
+<p align="left">
+
+Aligning identical location images:
+<p align="left">
+  <img src="examples/example_registration.png" height="150" title="Determining atomic column positions">
+<p align="left">
